@@ -1,0 +1,25 @@
+{
+  "title": "Block Snake",
+  "archetype": "snake",
+  "slug": "block-snake",
+  "description": "Classic snake grows by eating pellets, but brick walls block your path. Crash into bricks head-on to smash them \u2014 but every smash costs one tail segment. Survive longest, break most bricks.",
+  "screens": [
+    "MenuScreen",
+    "GameScreen",
+    "GameOverScreen",
+    "PauseScreen"
+  ],
+  "colors": {
+    "primary": "#00FF88",
+    "secondary": "#111122",
+    "accent": "#FF4444",
+    "bg": "#080812"
+  },
+  "font1": "PressStart2P.ttf",
+  "font2": "Kongtext.ttf",
+  "buttonStyle": "pixel",
+  "gameId": "game-896-block-snake",
+  "gamePath": "/home/kaliuzhnyi/asocity/projects/game-896-block-snake",
+  "packageName": "com.blocksnake000896.app2762",
+  "orientation": "portrait"
+}
