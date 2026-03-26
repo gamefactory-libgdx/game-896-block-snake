@@ -1,0 +1,70 @@
+{
+  "archetype": "snake",
+  "selection": {
+    "sprites/object": {
+      "pack": "free-medieval-armory-street-cartoon-2d-tileset",
+      "source": "craftpix",
+      "path": "tilesets/side/fantasy/free-medieval-armory-street-cartoon-2d-tileset",
+      "type": "object",
+      "theme": [
+        "fantasy",
+        "nature",
+        "urban"
+      ],
+      "png_count": 120
+    },
+    "sprites/tileset": {
+      "pack": "craftpix-grassland-top-down-tileset-pixel-art",
+      "source": "craftpix",
+      "path": "tilesets/top-down/generic/craftpix-grassland-top-down-tileset-pixel-art",
+      "type": "tileset",
+      "theme": [
+        "grassland",
+        "nature"
+      ],
+      "png_count": 88
+    },
+    "sprites/ui": {
+      "pack": "tower-defense",
+      "source": "kenney",
+      "path": "tilesets/top-down/fantasy/tower-defense",
+      "type": "ui",
+      "theme": [
+        "fantasy"
+      ],
+      "png_count": 229
+    },
+    "backgrounds/menu": {
+      "pack": "pixelfrog-pixel-adventure-background",
+      "source": "itch",
+      "path": "backgrounds/platformer/pixelfrog-pixel-adventure-background",
+      "type": "background",
+      "theme": [
+        "platformer",
+        "nature"
+      ],
+      "png_count": 7
+    },
+    "backgrounds/game": {
+      "pack": "free-mountain-backgrounds-pixel-art",
+      "source": "craftpix",
+      "path": "tilesets/side/generic/free-mountain-backgrounds-pixel-art",
+      "type": "background",
+      "theme": [
+        "nature"
+      ],
+      "png_count": 8
+    }
+  },
+  "buttons": {
+    "color": "Green",
+    "files": [
+      "button_rectangle_depth_gradient.png",
+      "button_rectangle_depth_flat.png",
+      "button_round_depth_gradient.png",
+      "button_round_depth_flat.png",
+      "star.png",
+      "star_outline.png"
+    ]
+  }
+}
